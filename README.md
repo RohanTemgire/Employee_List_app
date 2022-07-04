@@ -1,16 +1,15 @@
-# zylu_business_app
+# Employee List Application
 
 A new Flutter project.
 
-## Getting Started
+A Flutter app to display all the employees. Any employee who is been more than 5 years and active with the organization have been flagged in green color. 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="./screenshots's/1.jpeg" width="250"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h1>Deposit</h1>
+<img src="./screenshots's/2.jpeg" width="250"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Withdraw</h1>
+<img src="./screenshots's/3.jpeg" width="250"/>
+
