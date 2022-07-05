@@ -20,9 +20,8 @@ A Flutter app to display all the employees. Any employee who is been more than 5
 <img src="./ScreenShots/5.jpeg" width="250"/>
 <img src="./ScreenShots/6.jpeg" width="250"/>
 
+
 <h1>Application Demo</h1>
-<video width="320" height="240" autoplay>
-  <source src="./ScreenShots/video.mp4" type="video/mp4">
- 
-Your browser does not support the video tag.
-</video>
+
+https://user-images.githubusercontent.com/56552357/177264235-e52e1c53-9fc3-45c7-a1e4-07898a0fb1d7.mp4
+
